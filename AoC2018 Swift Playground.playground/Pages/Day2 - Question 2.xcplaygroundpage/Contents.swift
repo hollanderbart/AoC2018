@@ -2,9 +2,6 @@
 
 import Foundation
 
-let x = "A B C"
-let y = "A b C"
-
 let sortedInput = input.sorted()
 
 //print(sortedInput)
